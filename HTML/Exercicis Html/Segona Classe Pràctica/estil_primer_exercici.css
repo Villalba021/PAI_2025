@@ -17,6 +17,7 @@ nav {
     width: 77%; 
     height: 100px; 
     float: right;
+    ;
     
 }
 nav li:hover {
@@ -27,6 +28,7 @@ nav ul li{
     margin-right: 25px;
     padding-right: 50px;
     float: right;
+;
 }
 a {
     color: black; 
